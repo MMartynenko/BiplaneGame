@@ -1,0 +1,2 @@
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\BiplaneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNA\Biplane\Biplane\BiplaneContent\obj\x86\Debug\ResolveAssemblyReference.cache

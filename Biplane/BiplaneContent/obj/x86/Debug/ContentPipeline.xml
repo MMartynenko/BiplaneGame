@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Background1.png</Source>
+      <Name>Images\Background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Background1.xnb</Output>
+      <Time>2012-05-15T23:14:32+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background2.jpg</Source>
+      <Name>Images\Background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Background2.xnb</Output>
+      <Time>2012-05-15T23:15:12+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Plane1.png</Source>
+      <Name>Images\Plane1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Plane1.xnb</Output>
+      <Time>2012-05-15T23:16:28+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background3.png</Source>
+      <Name>Images\Background3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Background3.xnb</Output>
+      <Time>2012-05-29T18:22:12+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\target.png</Source>
+      <Name>Images\target</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\target.xnb</Output>
+      <Time>2012-06-19T18:59:40+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bullet.png</Source>
+      <Name>Images\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\bullet.xnb</Output>
+      <Time>2012-06-24T18:57:18+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Square.png</Source>
+      <Name>Images\Square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Square.xnb</Output>
+      <Time>2011-02-20T14:23:12+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\BiplaneContent\</RootDirectory>
+      <LoggerRootDirectory>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\BiplaneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-28T17:37:44.3875531+04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
